@@ -5,8 +5,7 @@ function App() {
   return (
     <div className="App">
       <div className="container">
-        
-        <Weather />
+        <Weather defaultCity="Melbourne" />
         <footer>
           This project was created by{" "}
           <a
