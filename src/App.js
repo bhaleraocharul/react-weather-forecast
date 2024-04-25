@@ -13,15 +13,23 @@ function App() {
             target="_blank"
             rel="noreferrer"
           >
-            Charul
+            Charul,
           </a>{" "}
-          and is open sourced on{" "}
+          is open sourced on{" "}
           <a
             href="https://github.com/bhaleraocharul/react-weather-forecast"
             target="_blank"
             rel="noreferrer"
           >
             Github
+          </a>{" "}
+          and hosted on{" "}
+          <a
+            href="https://react-weather-forecast-cb.netlify.app/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Netlify
           </a>
         </footer>
       </div>
